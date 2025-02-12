@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @basimcheema
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Java, numpy, and ML.
+- 👀 I’m interested in robotics, embedded firmware, and medical engineering
+- 🌱 I’m currently learning C++, and PyTorch
 - Email: basim.cheema.sabir@gmail.com 
-- Discord: yeet master 69#7113
+- Discord: basim_cs
 
 <!---
 basimcheema/basimcheema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
