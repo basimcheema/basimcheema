@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @basimcheema
-- 👀 I’m interested in robotics, embedded firmware, and medical engineering
-- 🌱 I’m currently learning C++, and PyTorch
-- Email: basim.cheema.sabir@gmail.com 
-- Discord: basim_cs
+sometimes i code
 
 <!---
 basimcheema/basimcheema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
